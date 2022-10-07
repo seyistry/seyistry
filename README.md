@@ -12,6 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seyistry&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seyistry&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br/>
+<b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+
+
+> <a href="https://github.com/seyistry/github-readme-activity-graph"><img alt="Oluwaseyi Egunjobi' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=seyistry&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
