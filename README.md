@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a transit mobile app<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with mentorship in Software Engineering<br>🌱 I’m currently learning with ALX Africa on SE<br>💬 Ask me about the web, mobile, and cloud dev<br>⚡ Fun fact, I love Manchester United
+🔭 I’m currently working on a transit mobile app<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with mentorship in Software Engineering<br>🌱 A graduate of Software Engineering from ALX Africa <br>💬 Ask me about the web, mobile, and cloud dev<br>⚡ Fun fact, I love Manchester United
 
 
 ## 🌐 Socials:
